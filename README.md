@@ -1,11 +1,12 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a test application to sort out how Ruby on Rails interfaces with Active Record, Postgres, & so on.
 
 Things you may want to cover:
 
 * Ruby version
+
+ruby 2.0.0p195 (2013-05-14 revision 40734) [x86_64-darwin12.3.0]
 
 * System dependencies
 
