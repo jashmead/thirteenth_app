@@ -1,6 +1,7 @@
 == README
 
 This is a test application to sort out how Ruby on Rails interfaces with Active Record, Postgres, & so on.
+Testing change from rdoc to md formats
 
 Things you may want to cover:
 
